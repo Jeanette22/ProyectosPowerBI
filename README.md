@@ -15,7 +15,8 @@ Este fue uno de mis primeros Dashboard que realicé con tiempo, y fui aprendiend
 
 #### Después fui pasando los resultados que obtenía en python de proyectos/cursos a Power BI, por ejemplo:
 Aclaración este proyecto pertenece al reto que realicé "DataAcademy": https://github.com/Jeanette22/Proyecto-Data-Science-2022--Analisis-Retails--Reto 
-![perfil opcion 2](https://user-images.githubusercontent.com/80054717/184250081-227e86e4-762a-485f-b183-b662d0f7a74c.png)
+![perfil opcion 2]
+(https://user-images.githubusercontent.com/80054717/184250081-227e86e4-762a-485f-b183-b662d0f7a74c.png)
 
 #### Por último realicé algunos dashboard "técnicos" de gestión presupuestarias como los siguientes: 
 ![gestion presupuestaria 1](https://user-images.githubusercontent.com/80054717/184250224-a1f21dfb-e637-483a-8fd7-5699b08f4fe2.png)
