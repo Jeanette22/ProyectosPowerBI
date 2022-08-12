@@ -6,7 +6,7 @@ Dejo mi perfil y proyectos realizados:
 
 ![Perfil de proyectos Power BI](https://user-images.githubusercontent.com/80054717/184246469-f89f275a-cb4f-4533-a80f-08242306a7c6.png)
 
-#### Ahora bien, agrego los proyectos que fui realizando mientras hacia los cursos que encontré online gratuitos, talleres & los de plataformas pagas: 
+#### Ahora bien, agrego los proyectos que fui realizando mientras hacia los cursos que encontré online gratuitos,talleres & los de plataformas pagas: 
 Este fue uno de mis primeros Dashboard que realicé con tiempo, y fui aprendiendo de a poco (Creditos al canal de youtube datdata: https://www.youtube.com/watch?v=F_xNyI-gtYc). 
 ![Primer proyecto powerBI](https://user-images.githubusercontent.com/80054717/184247480-80303466-99aa-4c0a-b59f-40a0252b5915.png)
 
