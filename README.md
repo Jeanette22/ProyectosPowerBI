@@ -1,4 +1,4 @@
-# ProyectosPowerBI
+# Proyectos PowerBI
 Dejo mi perfil y proyectos realizados:
 
 ### Primero les dejo mi perfil hecho en Power BI de los cursos realizados y un poco sobre mi🤓 
