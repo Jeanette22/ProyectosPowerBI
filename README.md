@@ -24,4 +24,6 @@ Aclaración este proyecto pertenece al reto que realicé "DataAcademy": https://
 ![proyecto HIV](https://user-images.githubusercontent.com/80054717/184250626-b18d4755-1c72-47ac-900a-f06b778deeb3.png)
 
 
+Analytic team: 
 
+![presentacion Analytic team](https://user-images.githubusercontent.com/80054717/193093282-65ad6af8-624b-4d01-b674-c7f4a6c15ef3.png)
