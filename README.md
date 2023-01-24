@@ -27,3 +27,7 @@ Aclaración este proyecto pertenece al reto que realicé "DataAcademy": https://
 Analytic team: 
 
 ![presentacion Analytic team](https://user-images.githubusercontent.com/80054717/193093282-65ad6af8-624b-4d01-b674-c7f4a6c15ef3.png)
+
+Incendios en Argentina 1995 al 2021: 
+![Incendios 1995- 2021](https://user-images.githubusercontent.com/80054717/214333185-512863b6-7f67-46b9-834a-d18456c9b502.png)
+
